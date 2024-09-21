@@ -20,8 +20,6 @@ React Native: Framework de desenvolvimento de aplicativos móveis multiplataform
 
 ### Link:
 
-> Portfólio: https://daliosy.github.io/my-PORTFOLIO
-
 > Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
 
 #reactnative #desenvolvimentomobile #experienciadousuario #linkedin
